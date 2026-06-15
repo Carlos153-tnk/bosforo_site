@@ -151,3 +151,31 @@ footer{
     opacity:1;
     transform:translateY(0);
 }
+
+.fog{
+    position:fixed;
+    top:0;
+    left:0;
+    width:200%;
+    height:100%;
+    pointer-events:none;
+
+    background:
+    radial-gradient(circle,
+    rgba(255,255,255,.03),
+    transparent 60%);
+
+    animation:fogMove 30s linear infinite;
+}
+
+@keyframes fogMove{
+
+    from{
+        transform:translateX(-20%);
+    }
+
+    to{
+        transform:translateX(0%);
+    }
+
+}
