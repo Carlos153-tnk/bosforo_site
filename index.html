@@ -1,36 +1,297 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
+
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>BÓSFORO</title>
 
 <style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
 body{
-    background:#111;
+    background:#050505;
     color:white;
-    font-family:Arial;
+    font-family:Segoe UI, sans-serif;
+    overflow-x:hidden;
+}
+
+/* Fundo animado */
+
+.fog{
+    position:fixed;
+    width:200%;
+    height:200%;
+    background:
+    radial-gradient(circle, rgba(255,255,255,.03), transparent 60%);
+    animation:fogMove 35s linear infinite;
+    pointer-events:none;
+}
+
+@keyframes fogMove{
+    from{
+        transform:translateX(-15%) translateY(-5%);
+    }
+    to{
+        transform:translateX(0%) translateY(5%);
+    }
+}
+
+/* Hero */
+
+.hero{
+    height:100vh;
+    background:
+    linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.9)),
+    url("capa.jpg");
+
+    background-size:cover;
+    background-position:center;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
     text-align:center;
 }
 
-h1{
-    margin-top:100px;
-    font-size:70px;
-    animation:pulse 2s infinite;
+.hero h1{
+    font-size:8rem;
+    letter-spacing:12px;
+    animation:glitch 5s infinite;
 }
 
-@keyframes pulse{
-    50%{
-        opacity:0.5;
+.hero p{
+    margin-top:20px;
+    color:#cfcfcf;
+    font-size:1.3rem;
+}
+
+@keyframes glitch{
+
+    0%,100%{
+        text-shadow:
+        0 0 5px white;
     }
-}
-</style>
 
+    97%{
+        transform:translateX(0);
+    }
+
+    98%{
+        transform:translateX(3px);
+    }
+
+    99%{
+        transform:translateX(-3px);
+    }
+
+}
+
+/* Botão */
+
+.btn{
+    margin-top:40px;
+    padding:15px 40px;
+    border:1px solid #555;
+    color:white;
+    text-decoration:none;
+    transition:.4s;
+}
+
+.btn:hover{
+    background:white;
+    color:black;
+}
+
+/* Conteúdo */
+
+.section{
+    max-width:1100px;
+    margin:auto;
+    padding:120px 20px;
+}
+
+.section h2{
+    font-size:3rem;
+    margin-bottom:25px;
+}
+
+.section p{
+    color:#bdbdbd;
+    line-height:1.8;
+}
+
+/* Cards */
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:25px;
+    margin-top:50px;
+}
+
+.card{
+    background:#0f0f0f;
+    border:1px solid #222;
+    padding:25px;
+    border-radius:12px;
+    transition:.4s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 0 30px rgba(255,255,255,.08);
+}
+
+/* Galeria */
+
+.gallery{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:20px;
+    margin-top:40px;
+}
+
+.gallery img{
+    width:100%;
+    border-radius:12px;
+    transition:.5s;
+}
+
+.gallery img:hover{
+    transform:scale(1.03);
+}
+
+/* Sonho */
+
+.dream{
+    background:#090909;
+    border-left:4px solid #444;
+    padding:30px;
+    margin-top:40px;
+    font-style:italic;
+}
+
+/* Footer */
+
+footer{
+    text-align:center;
+    color:#666;
+    padding:60px;
+    border-top:1px solid #111;
+}
+
+</style>
 </head>
 
 <body>
 
+<div class="fog"></div>
+
+<section class="hero">
+
 <h1>BÓSFORO</h1>
 
-<p>Algumas ilhas deveriam permanecer esquecidas.</p>
+<p>
+Algumas ilhas deveriam permanecer esquecidas.
+</p>
+
+<a href="#sobre" class="btn">
+DESCER
+</a>
+
+</section>
+
+<section id="sobre" class="section">
+
+<h2>Sobre o jogo</h2>
+
+<p>
+Após receber um convite misterioso, Marcos chega à Ilha de Bósforo.
+O que deveria ser apenas uma viagem tranquila rapidamente se transforma
+em uma sequência de acontecimentos perturbadores.
+</p>
+
+<div class="dream">
+
+"Eu vi a estátua novamente.
+Ela estava me observando."
+
+</div>
+
+</section>
+
+<section class="section">
+
+<h2>Características</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Suspense Psicológico</h3>
+<p>Questione tudo o que vê.</p>
+</div>
+
+<div class="card">
+<h3>Exploração</h3>
+<p>Descubra os segredos da ilha.</p>
+</div>
+
+<div class="card">
+<h3>Sonhos</h3>
+<p>Memórias e pesadelos se misturam.</p>
+</div>
+
+<div class="card">
+<h3>Mistério</h3>
+<p>Algo está errado em Bósforo.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="section">
+
+<h2>Galeria</h2>
+
+<div class="gallery">
+
+<img src="shot1.jpg">
+<img src="shot2.jpg">
+<img src="shot3.jpg">
+
+</div>
+
+</section>
+
+<section class="section">
+
+<h2>Download</h2>
+
+<p>
+Em breve disponível.
+</p>
+
+</section>
+
+<footer>
+
+© 2026 BÓSFORO
+
+</footer>
 
 </body>
 </html>
