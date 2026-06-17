@@ -1,0 +1,92 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "a_MARCOS_001": "Anfitrião: Willkommen auf der Insel Bosforo, Herr Marcos. Es ist mir eine große Freude, Sie in unserem kleinen Refugium willkommen zu heißen. Ich hoffe, Ihre Reise war angenehm.",
+        "a_MARCOS_002": "Marcos: Ah ... ja, ich denke schon. Nur das Boot hat ziemlich geschaukelt ... Ich dachte schon, ich würde hier nicht heil ankommen.",
+        "a_MARCOS_003": "Anfitrião: Das Meer rund um Bosforo stellt unsere Besucher bei ihrer Ankunft gerne auf die Probe, mein Herr. Wir sagen, dass die Insel so dafür sorgt, dass nur die Entschlossensten ihre Schönheit zu schätzen wissen.",
+        "a_MARCOS_004": "Marcos: Dann habe ich die Prüfung wohl bestanden. Aber ... ist es normal, dass die Insel so ... still wirkt?",
+        "a_MARCOS_005": "Anfitrião: Aber natürlich. Die Stille ist unser kostbarster Luxus. Viele Menschen kommen gerade deshalb hierher, um dem Lärm des Festlands zu entfliehen. Frieden ist unser größter Schatz.",
+        "a_MARCOS_006": "Marcos: Das ergibt Sinn. Ich brauchte wirklich etwas Abstand von allem.",
+        "a_MARCOS_007": "Anfitrião: Dann sind Sie hier genau richtig. Wir haben ein Zimmer mit Meerblick für Sie vorbereitet — und wenn ich einen Rat geben darf: Der Sonnenuntergang hier ist oft ein Anblick, der selbst die müdesten Seelen heilt.",
+        "a_MARCOS_008": "Marcos: Die Seele heilen? Ich glaube, genau deshalb bin ich hierhergekommen.",
+        "a_MARCOS_009": "Anfitrião: Dann möge diese Insel Ihnen genau das schenken, wonach Sie suchen, Herr Marcos. Sie können sich frei im Hotel bewegen. Und bitte ... zögern Sie nicht, um irgendetwas zu bitten. Wir tun hier alles dafür, dass sich unsere Gäste wie zu Hause fühlen.",
+        "a_MARCOS_0010": "Marcos: Wie zu Hause ... Nun ja, mal sehen, ob ich mich an so viel Stille gewöhnen kann.",
+        "a_MARCOS_0011": "Anfitrião: Die Stille, mein Herr, spricht manchmal lauter als Worte.",
+        "a_MARCOS_0012": "Anfitrião: Benötigen Sie Hilfe, mein Herr?",
+
+        "b_MARCOS_001": "Marcos: Was für ein seltsamer Ort ...",
+        "b_MARCOS_002": "Marcos: Es wirkt, als hätte seit Jahren niemand diesen Ort besucht.",
+        "b_MARCOS_003": "Marcos: Und ... irgendwie habe ich das Gefühl, schon einmal hier gewesen zu sein.",
+        "b_MARCOS_004": "Marcos: Ich muss mein Zimmer finden und mich von der Reise erholen. Ich fange schon an zu fantasieren.",
+
+        "c_MARCOS_001": "Marcos: Ist das mein Zimmer?",
+        "c_MARCOS_002": "Marcos: Sie sollten dringend den Innenausstatter austauschen.",
+        "c_MARCOS_003": "Marcos: Aber gut, dieses Zimmer scheint nichts Besonderes zu sein.",
+
+        "d_MARCOS_001": "Marcos: Was für ein merkwürdiger Traum.",
+        "d_MARCOS_002": "Marcos: Es klang, als würden sie meinen Namen rufen!",
+        "d_MARCOS_003": "Marcos: Ich glaube nicht, dass ich wieder einschlafen kann. Ich werde mich etwas umsehen.",
+
+        "e_MARCOS_001": "Anfitrião: Guten Abend, Herr Marcos. Sie kommen genau zur richtigen Zeit. Können Sie nicht schlafen?",
+        "e_MARCOS_002": "Marcos: Ich hatte einen sehr seltsamen Traum. Mehrere Geister verfolgten mich und riefen immer wieder meinen Namen.",
+        "e_MARCOS_003": "Anfitrião: Ah ... das geht vielen Gästen so. Die Insel hat die Angewohnheit, das ans Licht zu bringen, was wir tief in uns verborgen halten.",
+        "e_MARCOS_004": "Marcos: Diese Geister ... haben Sie schon einmal von ihnen gehört?",
+        "e_MARCOS_005": "Anfitrião: Ach, nur alte Geschichten. Frühere Gäste behaupteten, Stimmen zu hören. Aber machen Sie sich keine Sorgen ... hier ist niemand jemals wirklich allein.",
+        "e_MARCOS_006": "Anfitrião: Nun denn, Herr Marcos. Genießen Sie Ihren Aufenthalt.",
+
+        "talk_MARCOS_001": "Ich glaube nicht, dass das mein Zimmer ist.",
+        "talk_MARCOS_002": "Was mache ich hier eigentlich?",
+        "talk_MARCOS_003": "Hier ist niemand!",
+        "talk_MARCOS_004": "Ich glaube nicht, dass mein Zimmer dort entlang liegt.",
+        "talk_MARCOS_005": "Ich möchte diesen Ort nicht erkunden.",
+        "talk_MARCOS_006": "Ich bin viel zu müde.",
+        "talk_MARCOS_007": "Dieses Hotel ist irgendwie seltsam.",
+        "talk_MARCOS_008": "'Bosforo'? Wer hat sich denn diesen seltsamen Namen ausgedacht?",
+
+        "menu_play": "Spielen",
+        "menu_option": "Sprachen",
+
+        "objetos_000": "Marcos: Die Gäste verlassen diesen Ort nie. Sie wechseln nur das Zimmer. Gez.: M. Almeida",
+        "objetos_001": "Marcos: Dieser Kerl ist wirklich seltsam.",
+        "objetos_002": "Marcos: Wie war sein Name noch gleich? 'Anfitrião'!",
+        "objetos_003": "Marcos: Er ist sehr höflich, aber auch äußerst verdächtig.",
+        "objetos_004": "Marcos: Was für ein merkwürdiges Gemälde.",
+        "objetos_005": "Marcos: Jemand hat wirklich einen schrecklichen Geschmack.",
+        "objetos_006": "Marcos: Diese Dinge müssen ein Vermögen wert sein.",
+
+        "missao_001": "Nimm den Schlüssel und betrete das Hotel",
+        "missao_002": "Finde dein Zimmer",
+        "missao_003": "Die Tür ist verschlossen. Finde den Schlüssel, um das Zimmer zu betreten",
+        "missao_004": "Erkunde das Hotel",
+        "missao_005": "Sprich mit dem 'Anfitrião'",
+
+        "item_icon_00-1": "Zimmerschlüssel",
+        "item_icon_000": "Bosforo-Schlüssel",
+        "item_icon_001": "Anfitriãos Tagebuch I",
+        "item_icon_002": "Anfitriãos Tagebuch II",
+        "item_icon_003": "Anfitriãos Tagebuch III",
+        "item_icon_004": "ANMERKUNG des Unbekannten I",
+        "item_icon_005": "ANMERKUNG des Unbekannten II",
+        "item_icon_006": "ANMERKUNG des Unbekannten III",
+        "item_icon_007": "ANMERKUNG des Unbekannten IV",
+
+        "bil_001": "Arbeiter: Der Meister sagte, die Insel sei perfekt: fester Fels, stabiles Klima und ein Blick ins Nichts. Doch seit dem ersten Tag bebt nachts der Boden. Werkzeuge verschwinden. Die Uhr in der Werkstatt geht nie über drei Uhr hinaus. Einer der Jungen schwor, Stimmen unter der Erde gehört zu haben, die seinen Namen riefen. Wir haben gelacht. Heute lacht niemand mehr.",
+        "bil_002": "Rezeptionistin: Heute ist ein wunderschöner Tag. Die Blumen blühen wieder und die Vögel singen. Hoffentlich geht dieser Tag niemals zu Ende. Der anfitrião bemerkt es vielleicht nicht, aber ich glaube, die Dinge hier könnten sich zum Besseren wenden.",
+        "bil_003": "Hausmeister: Manchmal denke ich, dass es unmöglich ist, diesen verfluchten Ort zu verlassen. Seit Jahren ist niemand mehr hier aufgetaucht ... und trotzdem kehrt jedes Durcheinander immer wieder an denselben Platz zurück. Ich habe versucht, die Möbel umzustellen. Am nächsten Morgen stand alles wieder genau wie zuvor. Ich will nicht herausfinden, wer dafür verantwortlich ist. Manche Dinge sollten besser ruhen.",
+        "bil_004": "Butler: Anfitrião bat mich, das Gepäck der Gäste auf ihre Zimmer zu bringen. Die ganze Nacht lang schleppte ich Koffer durch die Flure. Sie waren viel zu schwer, um nur Kleidung zu enthalten. Doch einen Koffer konnte ich nicht in den zweiten Stock bringen. 'Dieses Ding' dort macht mir Angst. Hoffentlich ist Anfitrião deswegen nicht verärgert.",
+        "diario_001": "NOTIZ I: Der Mensch ist ein Gast im eigenen Bewusstsein. Er kommt an, richtet sich ein und glaubt, das Haus gehöre ihm. Ich bewahre lediglich die Schlüssel auf. Wenn sie gehen, bemerken nur wenige, dass sie die Tür niemals durchschritten haben.",
+        "diario_002": "NOTIZ II: Schuld ist der beste Mörtel. Sie verbindet die Wände, fesselt die Seelen und trägt die Decken des Geistes. Ohne Schuld würde dieser Ort innerhalb von Sekunden zusammenbrechen.",
+        "diario_003": "NOTIZ III: Ewigkeit ist keine Zeit. Sie ist Wiederholung. Jeder Gast erlebt denselben Fehler immer wieder, bis er versteht, warum er hier ist. Manche lernen daraus. Andere ... unterschreiben das Buch und nehmen meine Krawatte mit.",
+
+        "prologo_001": "Eigentlich sollte ich mich besser fühlen. Monatelang habe ich ohne Pause gearbeitet. Fristen, Besprechungen, Probleme, die niemals enden wollten. Als ich endlich ein paar Tage Urlaub bekam, dachte ich, ich müsste einfach nur weg.",
+        "prologo_002": "Weg von der Stadt. Weg vom Telefon. Weg von allem. Deshalb habe ich diesen Ort gewählt.",
+        "prologo_003": "Eine vergessene Insel mitten im Nirgendwo. Ein altes Hotel, das scheinbar kaum jemand besucht. Stille. Genau das, wonach ich gesucht hatte. Aber warum verschwindet dieses Gefühl nicht? Seit Beginn der Reise scheint etwas nicht zu stimmen. Es ist keine Angst. Nicht wirklich.",
+        "prologo_004": "Es ist, als würde man ein altes Foto betrachten und sicher sein, jemanden darauf kennen zu müssen, ohne sich erinnern zu können, wer es ist. Ein vertrautes Gefühl. Fern. Unangenehm.",
+        "prologo_005": "Ich blicke aus dem Fenster und sehe nur das dunkle Meer bis zum Horizont reichen. Noch ein paar Minuten bis zur Ankunft. Vielleicht bin ich einfach nur müde. Vielleicht spielt mir mein Verstand Streiche. Oder vielleicht gibt es einen Grund dafür, dass mir dieser Ort so vertraut vorkommt. Es spielt keine Rolle.",
+        "prologo_006": "Schon bald werde ich das Hotel Bosforo erreichen.",
+        "prologo_007": "Und mit etwas Glück werde ich endlich zur Ruhe kommen.",
+        "prologo_000": ""
+
+    }
+
+}

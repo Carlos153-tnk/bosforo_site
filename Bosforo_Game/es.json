@@ -1,0 +1,99 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "a_MARCOS_001": "Anfitrião: Bienvenido a la Isla de Bósforo, señor Marcos. Es un enorme placer recibirlo en nuestro pequeño refugio. Espero que el viaje haya sido agradable.",
+        "a_MARCOS_002": "Marcos: Ah... sí, creo que fue tranquilo. Aunque el barco se movía demasiado... por un momento pensé que no llegaría aquí entero.",
+        "a_MARCOS_003": "Anfitrião: El mar de Bósforo suele poner a prueba a los visitantes cuando llegan, señor. Decimos que es la forma que tiene la isla de asegurarse de que solo los más decididos puedan apreciar sus encantos.",
+        "a_MARCOS_004": "Marcos: Sí... supongo que entonces pasé la prueba. Pero... ¿es normal que la isla parezca tan... silenciosa?",
+        "a_MARCOS_005": "Anfitrião: Ah, sí. Aquí el silencio es nuestro lujo más preciado. Muchos vienen precisamente para alejarse del ruido del continente. La paz es nuestro mayor tesoro.",
+        "a_MARCOS_006": "Marcos: Tiene sentido. Realmente necesitaba alejarme de todo por un tiempo.",
+        "a_MARCOS_007": "Anfitrião: Entonces ha venido al lugar indicado, señor. Hemos preparado su habitación con vista al mar y, si me permite sugerirlo, los atardeceres de aquí suelen ser un espectáculo capaz de sanar incluso las almas más cansadas.",
+        "a_MARCOS_008": "Marcos: ¿Sanar el alma? Creo que eso es exactamente lo que vine a buscar.",
+        "a_MARCOS_009": "Anfitrião: Entonces espero que esta isla le brinde exactamente lo que busca, señor Marcos. Puede recorrer libremente el hotel. Y, por favor... no dude en pedir cualquier cosa. Aquí hacemos todo lo posible para que nuestros huéspedes se sientan como en casa.",
+        "a_MARCOS_0010": "Marcos: Como en casa... Bueno, veremos si logro acostumbrarme a tanto silencio.",
+        "a_MARCOS_0011": "Anfitrião: El silencio, señor, a veces dice más que las palabras.",
+        "a_MARCOS_0012": "Anfitrião: ¿Necesita ayuda con algo, señor?",
+
+        "b_MARCOS_001": "Marcos: Qué lugar tan extraño...",
+        "b_MARCOS_002": "Marcos: Parece que nadie visita este lugar desde hace años.",
+        "b_MARCOS_003": "Marcos: Y... siento que de alguna manera ya estuve aquí antes.",
+        "b_MARCOS_004": "Marcos: Necesito encontrar mi habitación para descansar del viaje. Ya estoy empezando a delirar.",
+
+        "c_MARCOS_001": "Marcos: ¿Esta es mi habitación?",
+        "c_MARCOS_002": "Marcos: Necesitan cambiar urgentemente al decorador.",
+        "c_MARCOS_003": "Marcos: Pero en fin, esta habitación no parece tener nada especial.",
+
+        "d_MARCOS_001": "Marcos: Qué sueño tan extraño.",
+        "d_MARCOS_002": "Marcos: ¡Parecía que estaban diciendo mi nombre!",
+        "d_MARCOS_003": "Marcos: No creo que pueda volver a dormir. Voy a explorar un poco.",
+
+        "e_MARCOS_001": "Anfitrião: Hola, señor Marcos. Llegó justo a tiempo. ¿No puede dormir?",
+        "e_MARCOS_002": "Marcos: Tuve un sueño muy extraño. Soñé que varios fantasmas me perseguían y repetían mi nombre una y otra vez.",
+        "e_MARCOS_003": "Anfitrião: Ah... les ocurre a muchos huéspedes. La isla suele revelar aquello que guardamos en nuestro interior.",
+        "e_MARCOS_004": "Marcos: Esos fantasmas... ¿ha oído hablar de ellos alguna vez?",
+        "e_MARCOS_005": "Anfitrião: Ah, viejas historias. Los antiguos huéspedes decían escuchar voces. Pero no se preocupe... aquí nadie está realmente solo.",
+        "e_MARCOS_006": "Anfitrião: Bien, señor Marcos. Disfrute de su estancia.",
+
+        "talk_MARCOS_001": "Creo que esta no es mi habitación.",
+        "talk_MARCOS_002": "¿Qué estoy haciendo?",
+        "talk_MARCOS_003": "¡No hay nadie aquí!",
+
+        "talk_MARCOS_004": "No creo que mi habitación esté por allí.",
+        "talk_MARCOS_005": "No quiero explorar este lugar.",
+        "talk_MARCOS_006": "Estoy muy cansado.",
+        "talk_MARCOS_007": "Este hotel es un poco extraño.",
+        "talk_MARCOS_008": "¿'Bósforo'? ¿Quién le puso un nombre tan raro?",
+
+        "menu_play": "Jugar",
+        "menu_option": "Idiomas",
+
+        "objetos_000": "Marcos: Los huéspedes no se marchan, solo cambian de habitación. Firmado: M. Almeida",
+        "objetos_001": "Marcos: Ese tipo es muy extraño.",
+        "objetos_002": "Marcos: ¿Cómo era su nombre? ¡'Anfitrião'!",
+        "objetos_003": "Marcos: Es muy educado, pero también muy sospechoso.",
+        "objetos_004": "Marcos: Qué pintura tan extraña.",
+        "objetos_005": "Marcos: Parece que alguien tiene muy mal gusto.",
+        "objetos_006": "Marcos: Estas cosas deben costar una fortuna.",
+
+        "missao_001": "Toma la llave y entra al hotel",
+        "missao_002": "Busca tu habitación",
+        "missao_003": "La puerta está cerrada. Busca la llave para acceder a la habitación",
+        "missao_004": "Explora el hotel",
+        "missao_005": "Habla con el 'Anfitrião'",
+
+        "item_icon_00-1": "Llave de la habitación",
+        "item_icon_000": "Llave de Bósforo",
+        "item_icon_001": "Diario del Anfitrião I",
+        "item_icon_002": "Diario del Anfitrião II",
+        "item_icon_003": "Diario del Anfitrião III",
+        "item_icon_004": "NOTA de los Anónimos I",
+        "item_icon_005": "NOTA de los Anónimos II",
+        "item_icon_006": "NOTA de los Anónimos III",
+        "item_icon_007": "NOTA de los Anónimos IV",
+
+        "bil_001": "Empleado: El maestro dijo que la isla era perfecta: roca firme, clima estable y una vista hacia la nada. Pero desde el primer día, el suelo vibra por las noches. Las herramientas desaparecen. El reloj del taller nunca pasa de las tres. Uno de los muchachos juró haber escuchado voces bajo la tierra llamándolo por su nombre. Nos reímos. Ahora ya nadie se ríe.",
+        "bil_002": "Recepcionista: Hoy es un día maravilloso. Las flores han vuelto a florecer y los pájaros cantan otra vez. Ojalá este día nunca termine. Puede que el Anfitrião no lo note, pero creo que las cosas aquí podrían mejorar.",
+        "bil_003": "Conserje: A veces pienso que es imposible salir de este lugar maldito. No aparece nadie desde hace años... pero el desorden siempre vuelve al mismo sitio. Ya intenté mover los muebles de lugar. Al día siguiente todo estaba exactamente igual. No quiero descubrir quién hace eso. Creo que hay cosas que deberían permanecer en silencio.",
+        "bil_004": "Mayordomo: El Anfitrião me pidió que llevara el equipaje de los huéspedes. Pasé toda la noche cargándolo hasta sus habitaciones. Las maletas eran demasiado pesadas para contener solo ropa. Pero no pude subir una de ellas al segundo piso. 'Eso' me da miedo. Espero que el Anfitrião no se moleste por ello.",
+        "diario_001": "NOTA I: El hombre es un huésped dentro de su propia conciencia. Llega, se instala y cree ser el dueño de la casa. Yo solo cuido las llaves. Cuando se marchan, pocos se dan cuenta de que jamás cruzaron la puerta.",
+        "diario_002": "NOTA II: La culpa es el mejor cemento. Une las paredes, aprisiona las almas y sostiene los techos de la mente. Sin culpa, este lugar se derrumbaría en segundos.",
+        "diario_003": "NOTA III: La eternidad no es tiempo. Es repetición. Cada huésped revive el mismo error hasta comprender por qué está aquí. Algunos aprenden. Otros... firman el libro y se llevan mi corbata.",
+        
+        "prologo_001": "Debería sentirme mejor. Fueron meses de trabajo sin descanso. Fechas límite, reuniones y problemas que parecían no terminar nunca. Cuando por fin conseguí unos días de vacaciones, pensé que todo lo que necesitaba era alejarme.",
+        "prologo_002": "Lejos de la ciudad. Lejos del teléfono. Lejos de todo. Por eso elegí este lugar.",
+        "prologo_003": "Una isla olvidada en medio de la nada. Un hotel antiguo que casi nadie parece visitar. Silencio. Era exactamente lo que buscaba. Entonces, ¿por qué esta sensación no desaparece? Desde que comenzó el viaje, algo se siente extraño. No es miedo. No exactamente.",
+        "prologo_004": "Es como mirar una fotografía antigua y estar seguro de que deberías reconocer a alguien en ella, pero no lograr recordar quién es. Una sensación familiar. Lejana. Incómoda.",
+        "prologo_005": "Miro por la ventana y solo veo el mar oscuro extendiéndose hasta el horizonte. Faltan apenas unos minutos para llegar. Tal vez solo estoy cansado. Tal vez mi mente me está jugando una mala pasada. O tal vez hay una razón por la que este lugar me resulta tan familiar. No importa.",
+        "prologo_006": "Pronto estaré en el Hotel Bósforo.",
+        "prologo_007": "Y, con suerte, por fin podré descansar.",
+        "prologo_000": ""
+
+
+
+
+
+
+    }
+
+
+}

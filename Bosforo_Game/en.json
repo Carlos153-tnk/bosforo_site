@@ -1,0 +1,96 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "a_MARCOS_001": "Anfitrião: Welcome to Bosforo Island, Mr. Marcos. It is a great pleasure to welcome you to our little refuge. I hope your journey was pleasant.",
+        "a_MARCOS_002": "Marcos: Ah... yes, it was peaceful, I think. Only the boat rocked too much... I almost thought I wouldn't make it here in one piece.",
+        "a_MARCOS_003": "Anfitrião: The Bosforo Sea usually tests visitors upon arrival, sir. We say it is the island's way of ensuring that only the most determined can appreciate its beauty.",
+        "a_MARCOS_004": "Marcos: Yeah... I guess I passed the test then. But... is it normal for the island to seem this... quiet?",
+        "a_MARCOS_005": "Anfitrião: Ah, yes. Here, silence is our most precious luxury. Many come precisely to escape the noise of the mainland. Peace is our greatest treasure.",
+        "a_MARCOS_006": "Marcos: That makes sense. I really needed some time away from everything.",
+        "a_MARCOS_007": "Anfitrião: Then you've come to the right place, sir. We've prepared your room with a sea view — and, if I may suggest, the sunset here is often a spectacle capable of healing even the most weary souls.",
+        "a_MARCOS_008": "Marcos: Heal the soul? I think that's exactly what I came looking for.",
+        "a_MARCOS_009": "Anfitrião: Then may this island bring you exactly what you seek, Mr. Marcos. You are free to walk around the Hotel. And please... do not hesitate to ask for anything. Here, we do our best to make every guest feel at home.",
+        "a_MARCOS_0010": "Marcos: At home... Yeah, let's see if I can get used to so much silence.",
+        "a_MARCOS_0011": "Anfitrião: Silence, sir, sometimes speaks louder than words.",
+        "a_MARCOS_0012": "Anfitrião: Do you need any assistance, sir?",
+
+        "b_MARCOS_001": "Marcos: What a strange place...",
+        "b_MARCOS_002": "Marcos: It seems like nobody has visited this place in years.",
+        "b_MARCOS_003": "Marcos: And... I feel like I've somehow been here before.",
+        "b_MARCOS_004": "Marcos: I need to find my room so I can rest from the trip. I'm already starting to hallucinate.",
+
+        "c_MARCOS_001": "Marcos: Is this my room?",
+        "c_MARCOS_002": "Marcos: They urgently need to replace the interior decorator.",
+        "c_MARCOS_003": "Marcos: But anyway, this room doesn't seem like anything special.",
+
+        "d_MARCOS_001": "Marcos: What a strange dream.",
+        "d_MARCOS_002": "Marcos: It sounded like they were calling my name!",
+        "d_MARCOS_003": "Marcos: I don't think I can sleep. I'll go explore.",
+
+        "e_MARCOS_001": "Anfitrião: Hello, Mr. Marcos. You arrived just in time. Are you having trouble sleeping?",
+        "e_MARCOS_002": "Marcos: I had a very strange dream. I dreamed that several ghosts were chasing me, and they kept repeating my name.",
+        "e_MARCOS_003": "Anfitrião: Ah... many guests do. The island tends to reveal what we keep hidden inside ourselves.",
+        "e_MARCOS_004": "Marcos: Those ghosts... have you ever heard of them?",
+        "e_MARCOS_005": "Anfitrião: Ah, old stories. Former guests claimed to hear voices. But don't worry... here, nobody is ever truly alone.",
+        "e_MARCOS_006": "Anfitrião: Well, Mr. Marcos, enjoy your stay.",
+
+        "talk_MARCOS_001": "I don't think this is my room.",
+        "talk_MARCOS_002": "What am I doing?",
+        "talk_MARCOS_003": "There's nobody here!",
+        "talk_MARCOS_004": "I don't think my room is that way.",
+        "talk_MARCOS_005": "I don't want to explore this place.",
+        "talk_MARCOS_006": "I'm very tired.",
+        "talk_MARCOS_007": "This hotel is kind of strange.",
+        "talk_MARCOS_008": "'Bosforo'? Who came up with such a strange name?",
+
+        "menu_play": "Play",
+        "menu_option": "Languages",
+
+        "objetos_000": "Marcos: Guests never leave. They only change rooms. Signed: M. Almeida",
+        "objetos_001": "Marcos: That guy is very strange.",
+        "objetos_002": "Marcos: What was his name again? 'Anfitrião'!",
+        "objetos_003": "Marcos: He's very polite, but highly suspicious.",
+        "objetos_004": "Marcos: What a strange painting.",
+        "objetos_005": "Marcos: Looks like someone has terrible taste.",
+        "objetos_006": "Marcos: These things must be very expensive.",
+
+        "missao_001": "Pick up the key and enter the hotel",
+        "missao_002": "Find your room",
+        "missao_003": "The door is locked. Find the key to access the room",
+        "missao_004": "Explore the hotel",
+        "missao_005": "Talk to the 'Anfitrião'",
+
+        "item_icon_00-1": "Room Key",
+        "item_icon_000": "Bosforo Key",
+        "item_icon_001": "Anfitrião's Diary I",
+        "item_icon_002": "Anfitrião's Diary II",
+        "item_icon_003": "Anfitrião's Diary III",
+        "item_icon_004": "Anonymous NOTE I",
+        "item_icon_005": "Anonymous NOTE II",
+        "item_icon_006": "Anonymous NOTE III",
+        "item_icon_007": "Anonymous NOTE IV",
+
+        "bil_001": "Worker: The master said the island was perfect: solid rock, stable climate, a view of nothingness. But since the first day, the ground has vibrated at night. Tools disappear. The workshop clock never goes past three. One of the boys swore he heard voices beneath the earth calling his name. We laughed. Nobody laughs anymore.",
+        "bil_002": "Receptionist: The day is wonderful today. The flowers have bloomed again, and the birds are singing now. I hope this day never ends. The anfitrião may not notice it, but things around here can get better, I think!",
+        "bil_003": "Caretaker: Sometimes I think it's impossible to leave this cursed place. No one has shown up in years... yet the mess always returns to the same spot. I've tried moving the furniture around. The next day, everything was exactly as before. I don't want to find out who's doing it. I think some things should remain quiet.",
+        "bil_004": "Butler: Anfitrião asked me to carry the guests' luggage. I spent the entire night taking it to their rooms. The suitcases were far too heavy to contain clothes. But I couldn't bring one of them to the second floor. 'That thing' scares me. I hope Anfitrião won't be upset about it.",
+
+        "diario_001": "NOTE I: Man is a guest within his own consciousness. He arrives, settles in, and believes he owns the house. I merely keep the keys. When they leave, few realize they never crossed the door.",
+        "diario_002": "NOTE II: Guilt is the finest cement. It binds the walls, traps the souls, and supports the ceilings of the mind. Without guilt, this place would collapse in seconds.",
+        "diario_003": "NOTE III: Eternity is not time. It is repetition. Every guest relives the same mistake until they understand why they are here. Some learn. Others... sign the book and take my tie.",
+        
+        "prologo_001": "I should be feeling better. It had been months of nonstop work. Deadlines, meetings, problems that never seemed to end. When I finally managed to get a few days off, I thought all I needed was to get away.",
+        "prologo_002": "Away from the city. Away from the phone. Away from everything. That's why I chose this place.",
+        "prologo_003": "A forgotten island in the middle of nowhere. An old hotel that almost nobody seems to visit. Silence. It was exactly what I was looking for. So why won't this feeling go away? Ever since I started this journey, something has felt wrong. It's not fear. Not exactly.",
+        "prologo_004": "It's like looking at an old photograph and being certain you should recognize someone in it, yet being unable to remember who. A familiar feeling. Distant. Uncomfortable.",
+        "prologo_005": "I look through the window and see only the dark sea stretching toward the horizon. A few minutes remain before arrival. Maybe I'm just tired. Maybe my mind is playing tricks on me. Or maybe there's a reason this place feels so familiar. It doesn't matter.",
+        "prologo_006": "Soon I'll be at the Bosforo Hotel.",
+        "prologo_007": "And, with luck, I'll finally be able to rest.",
+        "prologo_000": ""
+
+
+
+    }
+
+
+}
